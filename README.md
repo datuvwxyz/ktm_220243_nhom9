@@ -21,8 +21,8 @@ Sử dụng mô hình MVC và route để định tuyến dữ liệu đảm b�
 - Đăng ký/đăng nhập
 - Quản lý hồ sơ cá nhân
 ### Quản lý sản phẩm
-Admin: xem, thêm, sửa, xóa sản phẩm
-Người dùng: xem, thêm vào giỏ hàng, đặt hàng, thanh toán, theo dõi đơn hàng
+- Admin: xem, thêm, sửa, xóa sản phẩm
+- Người dùng: xem, thêm vào giỏ hàng, đặt hàng, thanh toán, theo dõi đơn hàng
 ### Thống kê và vẽ biểu đồ
 - Thống kê người dùng, sản phẩm, đơn hàng, doanh thu
 - Hiển thị biểu đồ bằng Chart.js hoặc D3.js

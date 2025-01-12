@@ -33,6 +33,6 @@
             @endif
         @endforeach
 
-        <a class="dropdown-item text-center small text-gray-500" href="{{route('all.notification')}}">Show All Notifications</a>
+        <a class="dropdown-item text-center small text-gray-500" href="{{route('all.notification')}}">Hiển trị tất cả tin nhắn</a>
       </div>
 </div>

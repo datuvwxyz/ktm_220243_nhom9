@@ -73,14 +73,14 @@
                     <div class="search-bar-top">
                         <div class="search-bar">
                             <select>
-                                <option >Tất cả danh mục</option>
+                                <option >Danh mục</option>
                                 @foreach(Helper::getAllCategory() as $cat)
                                     <option>{{$cat->title}}</option>
                                 @endforeach
                             </select>
                             <form method="POST" action="{{route('product.search')}}">
                                 @csrf
-                                <input name="search" placeholder="Search Products Here....." type="search">
+                                <input name="search" placeholder="Tìm kiếm sản phẩm ..." type="search">
                                 <button class="btnn" type="submit"><i class="ti-search"></i></button>
                             </form>
                         </div>
@@ -126,10 +126,10 @@
                                     </ul>
                                     <div class="bottom">
                                         <div class="total">
-                                            <span>Total</span>
+                                            <span>Tổng</span>
                                             <span class="total-amount">${{number_format(Helper::totalWishlistPrice(),2)}}</span>
                                         </div>
-                                        <a href="{{route('cart')}}" class="btn animate">Cart</a>
+                                        <a href="{{route('cart')}}" class="btn animate">Giỏ hàng</a>
                                     </div>
                                 </div>
                             @endauth

@@ -61,7 +61,7 @@
 					<div class="single-service">
 						<i class="ti-rocket"></i>
 						<h4>Miễn phí vận chuyển</h4>
-						<p>Orders over $100</p>
+						<p>Đơn hàng giá trên $100</p>
 					</div>
 					<!-- End Single Service -->
 				</div>
@@ -69,8 +69,8 @@
 					<!-- Start Single Service -->
 					<div class="single-service">
 						<i class="ti-reload"></i>
-						<h4>Trả lại miễn phí</h4>
-						<p>Within 30 days returns</p>
+						<h4>Hoàn trả</h4>
+						<p>Trong vòng 30 ngày</p>
 					</div>
 					<!-- End Single Service -->
 				</div>
@@ -78,8 +78,8 @@
 					<!-- Start Single Service -->
 					<div class="single-service">
 						<i class="ti-lock"></i>
-						<h4>Sucure Payment</h4>
-						<p>100% secure payment</p>
+						<h4>Thanh toán</h4>
+						<p>An toàn thanh toán 100%</p>
 					</div>
 					<!-- End Single Service -->
 				</div>
@@ -87,8 +87,8 @@
 					<!-- Start Single Service -->
 					<div class="single-service">
 						<i class="ti-tag"></i>
-						<h4>Best Peice</h4>
-						<p>Guaranteed price</p>
+						<h4>Giá</h4>
+						<p>Đảm bảo giá tốt nhất</p>
 					</div>
 					<!-- End Single Service -->
 				</div>

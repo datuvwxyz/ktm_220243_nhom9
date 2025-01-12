@@ -8,10 +8,10 @@
                     <!-- Start Newsletter Inner -->
                     <div class="inner">
                         <h4>Bản tin</h4>
-                        <p> Subscribe to our newsletter and get <span>10%</span> Giảm giá cho lần mua hàng đầu tiên của bạn </p>
+                        <p>Đăng ký nhận bản tin của chúng tôi và nhận<span> 10% </span>giảm giá cho lần mua hàng đầu tiên của bạn</p>
                         <form action="{{route('subscribe')}}" method="post" class="newsletter-inner">
                             @csrf
-                            <input name="email" placeholder="Your email address" required="" type="email">
+                            <input name="email" placeholder="Email của bạn" required="" type="email">
                             <button class="btn" type="submit">Đặt mua</button>
                         </form>
                     </div>

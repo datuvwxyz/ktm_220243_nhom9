@@ -36,3 +36,5 @@ Quyền quản lý danh mục, kỹ năng
 Nhà tuyển dụng
 Quyền xem tin tuyển dụng, duyệt tin ứng tuyển
 Xem được danh sách tin tuyển dụng đã đăng và trạng thái đã được admin duyệt hay chưa
+## Thiết kế figma
+[Link Figma](https://www.figma.com/design/8dhpUI0RJEPfkQYakql47Y/M%C3%B4n-web?node-id=0-1&t=geP1ABVI2ltOQapl-1)

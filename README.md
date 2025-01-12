@@ -30,4 +30,5 @@ Người dùng: xem, thêm vào giỏ hàng, đặt hàng, thanh toán, theo dõ
 - Tìm kiếm theo ký tự
 - Tìm kiếm theo danh mục
 - Tìm kiếm theo giá tiền
+## Thiết kế giao diện bằng Figma
 [Link Figma](https://www.figma.com/design/8dhpUI0RJEPfkQYakql47Y/M%C3%B4n-web?node-id=0-1&t=geP1ABVI2ltOQapl-1)

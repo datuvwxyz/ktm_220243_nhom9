@@ -1,5 +1,8 @@
 # Xây dựng website bán giày Sneaker bằng Laravel Framework và PHP
-
+## Thành viên nhóm 9
+- La Tấn Đạt - 110121206 (Leader)
+- Giang Quốc Huy - 110121002
+- Nguyễn Duy Khang - 110121188
 ## Mô tả 
 Website bán giày sneaker giúp người dùng dễ dàng xem, tìm kiếm, mua sản phẩm, và thanh toán trực tuyến. Website có giao diện thân thiện, tối ưu trải nghiệm người dùng, và hỗ trợ quản trị viên quản lý sản phẩm và đơn hàng hiệu quả. một nền tảng thương mại điện tử cung cấp các tính năng tiện lợi cho khách hàng và quản trị viên. Người dùng có thể tìm kiếm và xem thông tin chi tiết về sản phẩm, thêm sản phẩm vào giỏ hàng và thanh toán, quản lý số lượng, xem tổng tiền và thực hiện đặt hàng, theo dõi đơn hàng sau khi đã đặt hàng. Hệ thống hỗ trợ đăng ký, đăng nhập và cập nhật thông tin cá nhân. Người quản trị admin có thể quản lý người dùng, sản phẩm, danh mục, hãng sản xuất, và đơn hàng, bao gồm thêm, sửa, xóa thông tin, xử lý đơn hàng mới và cập nhật trạng thái.
 - Tạo nền tảng cho khách hàng có thể mua hàng online trực tuyến

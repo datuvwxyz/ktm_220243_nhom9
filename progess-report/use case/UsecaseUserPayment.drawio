@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
+  <diagram name="Page-1" id="5i5nPa0vAbGhf0ZcJXqY">
+    <mxGraphModel dx="1042" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ftYGo4r2eOnFNZMkt41i-2" target="ftYGo4r2eOnFNZMkt41i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-2" value="Khách hàng" style="shape=umlActor;html=1;verticalLabelPosition=top;verticalAlign=bottom;align=center;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="205" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-3" value="Thanh toán" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-4" value="Xem tổng đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ftYGo4r2eOnFNZMkt41i-3" target="ftYGo4r2eOnFNZMkt41i-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="180" as="sourcePoint" />
+            <mxPoint x="350" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="ftYGo4r2eOnFNZMkt41i-3" target="ftYGo4r2eOnFNZMkt41i-10">
+          <mxGeometry x="0.5238" y="5" width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="250" as="sourcePoint" />
+            <mxPoint x="451" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="125" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-7" value="Xác nhận thanh toán" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="480" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-8" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ftYGo4r2eOnFNZMkt41i-7">
+          <mxGeometry x="0.5701" y="5" width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="270" as="sourcePoint" />
+            <mxPoint x="500" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="400" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-9" value="Nhập thông tin&amp;nbsp;&lt;div&gt;thanh toán&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-10" value="Chọn phương thức&amp;nbsp;&lt;div&gt;thanh toán&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-11" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-10" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.566;exitY=-0.017;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;elbow=vertical;" edge="1" parent="1" source="ftYGo4r2eOnFNZMkt41i-3" target="ftYGo4r2eOnFNZMkt41i-11">
+          <mxGeometry x="0.3126" y="-20" width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="245" as="sourcePoint" />
+            <mxPoint x="460" y="135" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="25" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ftYGo4r2eOnFNZMkt41i-3" target="ftYGo4r2eOnFNZMkt41i-9">
+          <mxGeometry x="0.5238" y="5" width="160" relative="1" as="geometry">
+            <mxPoint x="339" y="220" as="sourcePoint" />
+            <mxPoint x="380" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="335" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-14" value="Xác thực thanh toán" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ftYGo4r2eOnFNZMkt41i-15" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.709;exitY=0.989;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;exitPerimeter=0;" edge="1" parent="1" source="ftYGo4r2eOnFNZMkt41i-3" target="ftYGo4r2eOnFNZMkt41i-14">
+          <mxGeometry x="0.5238" y="5" width="160" relative="1" as="geometry">
+            <mxPoint x="339" y="270" as="sourcePoint" />
+            <mxPoint x="460" y="345" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="425" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
